@@ -1,0 +1,31 @@
+{
+  "chainId": 4663,
+  "network": "Robinhood Chain",
+  "explorer": "https://robin.etherscan.io",
+  "deployedFromBlock": "93002651",
+  "contracts": {
+    "ChannelGame": "0x1C7dDdc2fA9BEc0549FcdeabcfeBD37452d2CDCb",
+    "ChannelGameImplementation": "0x6477094091bBb26EedEE0eC3303476a4Cb10c56f",
+    "GameLogic": "0xC6727E8f70f691302AeedA0E323cD357278C15b2",
+    "GameEntry": "0xeB671618E5c3094b34F951F13D6264E58c2A0B9c",
+    "GameAdmin": "0x82e6C732080Bae2Ad6140C7216433A5C44c64a81",
+    "ClaimLogic": "0x7da67e9aC4f4C2013460fDcAE514ad46AD60ef10",
+    "AssetRegistry": "0x91Ed7b91D670433194C9188c15E9ecaecD7Aa984",
+    "AssetRegistryImplementation": "0xFC1203b7E69dce5CAa27560DcE5fa5FF4Eb5ED60",
+    "AccessRegistry": "0x420C5C8496E8BcB8c22c0330D92BE5241FB01337",
+    "AccessRegistryImplementation": "0xc4Ad16b5f9e82fbd63Ac63162085eCBd664F5045",
+    "OverVault": "0xFB4C6062c24313E2E8Cf01D1CCBa0B940e7b29f6",
+    "UsdgVault": "0x526b07940694f599aA2e9DbDE30540BE004aC80e",
+    "VaultImplementation": "0xae69CBC484D5395B184B9F6C8f272357d072DbF6",
+    "Timelock": "0x0bCE465A55c8f5c670016B910A50e522e15F6051",
+    "AirdropVesting": "0x2170135f136217fD130d1d93b6efe8038B49c17f",
+    "TestersStaking": "0x2165E659406F6B4F122F10A540B634252249b306"
+  },
+  "tokens": {
+    "OVER": "0x6245Db7f52379bD9757c9DdcE6519768FfaB3a4F",
+    "USDG": "0x5fc5360D0400a0Fd4f2af552ADD042D716F1d168"
+  },
+  "chainlink": {
+    "DataStreamsVerifierProxy": "0xcE73c8ad08CBDEaCa6078BF0627C8fe0a9a536E7"
+  }
+}

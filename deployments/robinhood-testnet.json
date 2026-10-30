@@ -1,0 +1,18 @@
+{
+  "chainId": 46630,
+  "network": "Robinhood Chain Testnet",
+  "explorer": "https://explorer.testnet.chain.robinhood.com",
+  "contracts": {
+    "ChannelGame": "0x11AA71978d736e53623fDF9417F68e6256F297EC",
+    "AssetRegistry": "0x91fe6014420cDeDCd13E351C5Ec494587529b7a8",
+    "AccessRegistry": "0xEc66BFf3EA4ab3cF7f2754Cad642c4b722A78867",
+    "OverVault": "0xb35CdD49E59be16dfB53826634c74dbc97a5B418",
+    "UsdgVault": "0xdb946CCb048bED1690701F367d220d4826f4e116"
+  },
+  "tokens": {
+    "tOVER": "0xB49eA4838F8B4027d4B768d8deA556011679459C"
+  },
+  "chainlink": {
+    "DataStreamsVerifierProxy": "0x72790f9eB82db492a7DDb6d2af22A270Dcc3Db64"
+  }
+}
